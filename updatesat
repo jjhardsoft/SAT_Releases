@@ -1,0 +1,18 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+  <!-- Version must be higher than the running app's version (ProductVersion / AssemblyVersion) -->
+  <version>1.0.1.0</version>
+
+  <!-- Direct download URL to the installer or package (HTTPS strongly recommended) -->
+  <url>https://example.com/updates/MyAppSetup-1.0.1.exe</url>
+
+  <!-- Optional changelog or a URL with HTML content describing the changes -->
+  <changelog>https://example.com/updates/changelog-1.0.1.html</changelog>
+
+  <!-- true = force the user to update (no skip) -->
+  <mandatory>false</mandatory>
+
+  <!-- Optional publish date -->
+  <pubDate>2025-12-12</pubDate>
+</item>
