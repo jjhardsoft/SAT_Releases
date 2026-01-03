@@ -5,10 +5,10 @@
   <version>1.0.1.0</version>
 
   <!-- Direct download URL to the installer or package (HTTPS strongly recommended) -->
-  <url>https://example.com/updates/MyAppSetup-1.0.1.exe</url>
+  <url></url>
 
   <!-- Optional changelog or a URL with HTML content describing the changes -->
-  <changelog>https://example.com/updates/changelog-1.0.1.html</changelog>
+  <changelog></changelog>
 
   <!-- true = force the user to update (no skip) -->
   <mandatory>false</mandatory>
